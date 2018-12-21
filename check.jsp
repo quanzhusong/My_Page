@@ -1,4 +1,4 @@
-<%@ page contentType="text/html;charset=utf-8" import="javax.sql.*,java.sql.*, javax.naming.*" %>
+﻿<%@ page contentType="text/html;charset=utf-8" import="javax.sql.*,java.sql.*, javax.naming.*" %>
 <% request.setCharacterEncoding("utf-8"); %>
 <%
     String id = request.getParameter("ID");
